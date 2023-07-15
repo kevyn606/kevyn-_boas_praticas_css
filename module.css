@@ -1,0 +1,25 @@
+.title{
+    font-size: 1.2em;
+}
+
+.produto {} /* bloco */
+
+.produto-imagem { /* elemento */
+    width: 100%;
+}
+
+.produto-nome { /* elemento */
+    margin: 8px 0;
+}
+
+.produto-descricao { /* elemento */
+    color: gray;
+}
+
+
+
+.em-destaque { 
+    border: 2px solid gold;
+    padding: 8px;
+    background-color: #ffff42;
+}
